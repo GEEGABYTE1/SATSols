@@ -10,4 +10,8 @@ The algorithm will then convert the desired bits into bit-strings to be able to 
 
 After finding the right bit strings, the program will plot them on the QuantumCircuit, which can be visually seen. The algorithm will end off by printing the probability of a common or repeated measured bit or bit string.
 
+
+*Note*: A Sample usage of the algorithm can be found on `script.ipynb` with tested results.
+
+
 Made by Jaival 🦖
